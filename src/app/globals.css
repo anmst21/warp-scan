@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input-no-focus-outline:focus {
+  outline: none;
+  border-color: initial; /* Optional: resets the border color */
+}
+
+/* Hide spin buttons on number inputs */
+.input-no-spin::-webkit-inner-spin-button,
+.input-no-spin::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.input-no-spin {
+  -moz-appearance: textfield; /* Firefox */
+  appearance: textfield;
+}

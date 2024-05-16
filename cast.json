@@ -1,0 +1,123 @@
+{
+    "object": "cast",
+    "hash": "0x3e1f659435d39925a8e6b71c348bb60faf4f29c1",
+    "thread_hash": "0x3e1f659435d39925a8e6b71c348bb60faf4f29c1",
+    "parent_hash": null,
+    "parent_url": null,
+    "root_parent_url": null,
+    "parent_author": {
+        "fid": null
+    },
+    "author": {
+        "object": "user",
+        "fid": 3,
+        "custody_address": "0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1",
+        "username": "dwr.eth",
+        "display_name": "Dan Romero",
+        "pfp_url": "https://res.cloudinary.com/merkle-manufactory/image/fetch/c_fill,f_png,w_256/https://lh3.googleusercontent.com/MyUBL0xHzMeBu7DXQAqv0bM9y6s4i4qjnhcXz5fxZKS3gwWgtamxxmxzCJX7m2cuYeGalyseCA2Y6OBKDMR06TWg2uwknnhdkDA1AA",
+        "profile": {
+            "bio": {
+                "text": "Working on Farcaster and Warpcast.",
+                "mentioned_profiles": []
+            }
+        },
+        "follower_count": 282666,
+        "following_count": 3054,
+        "verifications": [
+            "0x8fc5d6afe572fefc4ec153587b63ce543f6fa2ea",
+            "0xd7029bdea1c17493893aafe29aad69ef892b8ff2"
+        ],
+        "verified_addresses": {
+            "eth_addresses": [
+                "0x8fc5d6afe572fefc4ec153587b63ce543f6fa2ea",
+                "0xd7029bdea1c17493893aafe29aad69ef892b8ff2"
+            ],
+            "sol_addresses": []
+        },
+        "active_status": "inactive",
+        "power_badge": true
+    },
+    "text": "1/ People seem increasingly concerned about the term \"daily active users\" (DAU).\n\nIt's used by other web2 social networks (in SEC filings!) and now other decentralized social networks; we use Meta's definition (below).\n\nIs there likely a better definition? Yes! \n\nHave we come up with a better methodology? Not yet.",
+    "timestamp": "2024-05-08T16:31:29.000Z",
+    "embeds": [
+        {
+            "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/19fd3835-f9d5-4dcc-8f00-3dbb38985100/original"
+        }
+    ],
+    "reactions": {
+        "likes_count": 145,
+        "recasts_count": 21,
+        "likes": [
+            {
+                "fid": 386132,
+                "fname": "mohammadreza"
+            },
+            {
+                "fid": 515685,
+                "fname": "ronahi"
+            },
+            {
+                "fid": 522204,
+                "fname": "ff258"
+            },
+            {
+                "fid": 239494,
+                "fname": "dwwmitry.eth"
+            },
+            {
+                "fid": 515885,
+                "fname": "mujahidali1"
+            }
+        ],
+        "recasts": [
+            {
+                "fid": 401987,
+                "fname": "hencazuma",
+                "viewer_context": {
+                    "following": false
+                }
+            },
+            {
+                "fid": 343385,
+                "fname": "salmanjd",
+                "viewer_context": {
+                    "following": false
+                }
+            },
+            {
+                "fid": 518756,
+                "fname": "jayne143",
+                "viewer_context": {
+                    "following": false
+                }
+            },
+            {
+                "fid": 522090,
+                "fname": "avengersdao",
+                "viewer_context": {
+                    "following": false
+                }
+            },
+            {
+                "fid": 513996,
+                "fname": "nadia786",
+                "viewer_context": {
+                    "following": false
+                }
+            }
+        ]
+    },
+    "replies": {
+        "count": 14
+    },
+    "mentioned_profiles": [],
+    "viewer_context": {
+        "liked": false,
+        "recasted": false
+    },
+    "inclusion_context": {
+        "is_following_author": true,
+        "is_following_recaster": false,
+        "is_self_authored": false
+    }
+}
